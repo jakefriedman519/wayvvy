@@ -1,0 +1,5 @@
+openAI:
+  api-url: "https://api.openai.com"
+
+logging.level:
+  com.wayvvy.springapp.OpenAiClient: DEBUG

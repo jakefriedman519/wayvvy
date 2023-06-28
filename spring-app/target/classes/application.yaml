@@ -1,0 +1,6 @@
+openAI:
+  api-url: "https://api.openai.com"
+  secret-key: "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"
+
+logging.level:
+  com.wayvvy.springapp.OpenAiClient: DEBUG
